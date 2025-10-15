@@ -1308,7 +1308,7 @@ ui <- navbarPage(title = "🔬Heterogeneity Simulator",
                          tags$li("Each simulation run performs 50 iterations."),
                          tags$h3("Survey", style = "color: darkred;"),
                          tags$li("After exploring the app, please participate in this survey", style = "color: darkred;", 
-                                 tags$a(href="https://tinyurl.com/uomappsurvey", "https://tinyurl.com/uomappsurvey.") ,tags$br(),
+                                 tags$a(href="https://tinyurl.com/simulatorappsurvey", "https://tinyurl.com/simulatorappsurvey.") ,tags$br(),
                                  "The purpose of this survey is to gather your feedback on the app. 
                            Your participation will help us understand how effective the tool is for learning, how engaging and easy to use it is,
                                 and how it could be improved.", style = "color: darkred;" ),
