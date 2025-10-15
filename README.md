@@ -1,6 +1,7 @@
-#Heterogeneity Simulator: Understanding Data Heterogeneity Impact on Model Performance
+Heterogeneity Simulator: Understanding Data Heterogeneity Impact on Model Performance
+============
 
-##Simulating Distribution Shifts and Their Effects on Predictive Models
+**Simulating Distribution Shifts and Their Effects on Predictive Models**
 
 - Despite growing awareness of data distribution shift and data heterogeneity, 
 existing visualization tools are primarily designed for data scientists and model developers 
