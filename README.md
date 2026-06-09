@@ -1,6 +1,9 @@
 Heterogeneity Simulator: Understanding Data Heterogeneity Impact on Model Performance
 ============
-https://hayaelayan.github.io/DatasetShift-Simulation/
+GitHub pages version: https://hayaelayan.github.io/DatasetShift-Simulation/
+
+
+Shinyapps version: https://uomhe.shinyapps.io/dataset_shift_simulation/
 ============
 **Simulating Distribution Shifts and Their Effects on Predictive Models**
 
