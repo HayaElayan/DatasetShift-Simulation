@@ -7,6 +7,7 @@ GitHub pages version: https://hayaelayan.github.io/DatasetShift-Simulation/
 Shinyapps version: https://uomhe.shinyapps.io/dataset_shift_simulation/
 
 ============
+
 **Simulating Distribution Shifts and Their Effects on Predictive Models**
 
 - Despite growing awareness of data distribution shift and data heterogeneity, 
